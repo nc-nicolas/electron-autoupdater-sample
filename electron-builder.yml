@@ -1,0 +1,4 @@
+appId: com.nc-nicolas.electronAutoUpdaterSample
+publish:
+  provider: github
+  token: b4bce03aa6ffba9f48a64cc523606a4610e8fa68
